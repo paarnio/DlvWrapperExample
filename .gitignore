@@ -5,3 +5,5 @@
 #ignore all files in the target/ and bin/ directory
 target/
 bin/
+#
+.classpath
